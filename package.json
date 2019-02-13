@@ -1,6 +1,6 @@
 {
     "name": "teste",
-    "description": "A Node-RED Project",
+    "description": "A Node-RED Project flow",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
